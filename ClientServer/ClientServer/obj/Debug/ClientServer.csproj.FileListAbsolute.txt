@@ -1,0 +1,7 @@
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\obj\Debug\ClientServer.csprojAssemblyReference.cache
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\obj\Debug\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\Maria\OneDrive\Документы\Курсовая\ClientServer\ClientServer\obj\Debug\ClientServer.pdb
